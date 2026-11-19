@@ -1,0 +1,5 @@
+# fireball.txt
+speed=6
+damage=8
+scaling_stat=intelligence
+scaling=0.5

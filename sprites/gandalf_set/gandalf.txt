@@ -1,0 +1,7 @@
+speed=2.5
+health=100
+mana=50
+strength=10
+intelligence=15
+agility=8
+attack=fireball

@@ -1,0 +1,6 @@
+# slash.txt
+damage=10
+scaling_stat=strength
+scaling=0.6
+reach=40
+lifetime=0.15
